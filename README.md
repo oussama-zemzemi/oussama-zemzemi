@@ -6,11 +6,9 @@ I'm Oussama from Tunisia, A passionate Full-Stack developer. I really enjoy lear
 
 ## Skills and Experience
 
-⚛ React
-📱 React Native
-💻 HTML, CSS, JS
-
-Skills: REACT / JS / HTML / CSS/ Node JS/Express JS
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on this page. Freelance 
 - 📫 How to reach me: oussama.zem99@gmail.com 
